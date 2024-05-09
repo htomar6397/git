@@ -1,1 +1,2 @@
-console.log(Hii);
+console.log("first");
+console.log("second");
